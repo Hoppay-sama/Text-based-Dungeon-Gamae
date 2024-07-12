@@ -1,0 +1,41 @@
+{
+  "Dungeons": [
+    {
+      "Name": "Shinujuku",
+      "Difficulty": "F",
+      "Type": "Trial",
+      "Loots": "Sword"
+    }
+  ],
+  "Monsters": [
+    {
+      "Name": "Slime",
+      "Health": 5,
+      "Strength": 1,
+      "Defense": 1,
+      "Intelligence": 1,
+      "Agility": 1,
+      "Grade": "F"
+    },
+    {
+      "Name": "Golem",
+      "Health": 400,
+      "Strength": 200,
+      "Defense": 140,
+      "Intelligence": 120,
+      "Agility": 160,
+      "Grade": "D"
+    }
+  ],
+  "Players": [
+    {
+      "Name": "Marc",
+      "Health": 15,
+      "Strength": 5,
+      "Defense": 5,
+      "Intelligence": 5,
+      "Agility": 5,
+      "Level": 1
+    }
+  ]
+}
